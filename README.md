@@ -1,19 +1,27 @@
-Vocabulary Control Center
-Overview
+# Vocabulary Control Center
+
+## Overview
+
 The Vocabulary Control Center is a Java-based application that allows users to create and manage a navigable database of topics and associated vocabulary. This application is designed to help users organize and modify vocabulary lists efficiently.
 
-Features
-Browse Topics: View all existing topics and their associated vocabulary.
-Insert New Topics: Add new topics before or after existing topics.
-Remove Topics: Remove topics from the list.
-Modify Topics: Add, remove, or change vocabulary words within a topic.
-Search Vocabulary: Search for a word across all topics or find words starting with a specific letter.
-Load/Save Data: Load vocabulary data from a file or save the current list to a file.
-Getting Started
-Prerequisites
-Java Development Kit (JDK) 8 or higher
-A compatible IDE or text editor
-Installation
+## Features
+
+- **Browse Topics**: View all existing topics and their associated vocabulary.
+- **Insert New Topics**: Add new topics before or after existing topics.
+- **Remove Topics**: Remove topics from the list.
+- **Modify Topics**: Add, remove, or change vocabulary words within a topic.
+- **Search Vocabulary**: Search for a word across all topics or find words starting with a specific letter.
+- **Load/Save Data**: Load vocabulary data from a file or save the current list to a file.
+
+## Getting Started
+
+### Prerequisites
+
+- Java Development Kit (JDK) 8 or higher
+- A compatible IDE or text editor
+
+### Installation
+
 1. Clone the repository:
 
 ```bash
