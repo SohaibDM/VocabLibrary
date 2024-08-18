@@ -65,7 +65,6 @@ Each topic is followed by its vocabulary list, with each word on a new line.
 Example:
 
 ```bash
-Copy code
 #Topic1
 word1
 word2
