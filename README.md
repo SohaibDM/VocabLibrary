@@ -30,7 +30,7 @@ git clone https://github.com/SohaibDM/VocabLibrary.git
 2. Navigate to the project directory:
 
 ```bash
-cd vocabulary-control-center
+cd VocabLibrary
 ```
 3. Compile the Java files:
 
