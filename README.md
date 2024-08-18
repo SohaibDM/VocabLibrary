@@ -64,7 +64,7 @@ Topics are preceded by a # character.
 Each topic is followed by its vocabulary list, with each word on a new line.
 Example:
 
-bash
+```bash
 Copy code
 #Topic1
 word1
